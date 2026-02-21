@@ -20,15 +20,13 @@ Welcome to my GitHub portfolio! This space showcases my projects, research, and 
 | Project | Description | Skills |
 |--------|-------------|--------|
 | [Credit Score Classification](https://github.com/Vanessasghub/AI-and-ML) | Built models to classify customers in credit score brackets. | EDA, ML, sklearn, pandas, numpy |
-| [Analysis of Crime data and Weather data in Colchester
-  in 2024](https://github.com/Vanessasghub/Data-Visualisation-) | Interactive dashboard to visualize COVID-19 data. | Plotly, ggplot, |
+| [Analysis of Crime data and Weather data in Colchester](https://github.com/Vanessasghub/Data-Visualisation) | Interactive dashboard to visualize crime hotspots relative to weather changes. | Plotly, ggplot, leaflet |
 
 ---
 
 ## 📫 Let's Connect
 
 - LinkedIn: [My LinkedIn](www.linkedin.com/in/vanessa-hategekimana-)
-- Email: your.email@example.com
 
 Thanks for visiting!
 
